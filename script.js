@@ -27,3 +27,47 @@ turnOff.addEventListener ( 'click', lampOff );
 lamp.addEventListener ( 'mouseover', lampOn );
 lamp.addEventListener ( 'mouseleave', lampOff );
 lamp.addEventListener ( 'dblclick', lampBroken );
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
